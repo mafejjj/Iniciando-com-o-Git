@@ -1,2 +1,2 @@
-utro arquivo para o Git
+Outro arquivo para o Git
 
